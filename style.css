@@ -289,4 +289,19 @@ footer p{
         flex-direction: column;
         text-align: center;
     }
+
+    .links-socias{
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .links-sociais a{
+        width: 80%;
+        text-align: center;
+    }
+
+    section{
+        padding: 40px 15px;
+        margin: 20px 10px;
+    }
 }
