@@ -81,10 +81,59 @@ section{
 }
 
 .hero{
-    background: none;
-    border: none;
-    backdrop-filter: none;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(imagens/fundo-mazda.jfif);
+    background-size: cover;
+    background-position: center;
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 } 
+
+.hero-content{
+    text-align: left;
+    max-width: 600px;
+    padding-left: 5%;
+}
+
+.hero-content h1{
+    font-size: 4rem;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 10px grba(0,0,0,0.8);
+}
+
+.hero-content p{
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color: var(--text-color);
+}
+
+.sub-text{
+    font-style: italic;
+    opacity: 0.8;
+    margin-bottom: 30px;
+}
+
+.cta-button{
+    padding: 15px 40px;
+    background: var(--accent-color);
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+    border-radius: 5px;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+    border: 2px solid var(--accent-color);
+    box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.2);
+}
+
+.cta-button:hover{
+    background: transparent;
+    color: var(--accent-color);
+    box-shadow: 0px 0px 25px rgba(0, 255, 255, 0.6);
+    transform: translateY(-3px);
+}
 
 .sobre{
     background-color: var(--card-bg);
