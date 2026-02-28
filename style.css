@@ -200,9 +200,7 @@ section{
         padding-left: 0;
     }
 
-    nav ul{
-        display: none;
-    }
+    
 
     .sobre-content{
         flex-direction: column;
