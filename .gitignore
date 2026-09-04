@@ -1,0 +1,20 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configuracoes locais do editor
+.vscode/
+
+# Variaveis de ambiente e arquivos locais
+.env
+.env.*
+!.env.example
+*.local
+
+# Dependencias e saidas de build
+node_modules/
+dist/
+build/
+
+# Logs
+*.log

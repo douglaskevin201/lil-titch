@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://douglaskevin201.github.io/lil-titch/sitemap.xml

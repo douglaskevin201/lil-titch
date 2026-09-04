@@ -1,47 +1,41 @@
-# 🏎️ Media Kit Digital - Lil Titch
+# Media Kit Digital - Lil Titch
 
-Este é um **Media Kit Digital** desenvolvido para a influenciadora **Lil Titch** (39.5k+ seguidores), focado no nicho automotivo e lifestyle em Curitiba/PR. O projeto foi concebido para substituir os tradicionais PDFs estáticos, oferecendo uma experiência interativa, moderna e otimizada para dispositivos móveis.
+Media kit digital desenvolvido para a criadora de conteúdo **Lil Titch**, com foco em automóveis, lifestyle e parcerias em Curitiba, Paraná.
 
----
+O projeto transforma um media kit tradicional em uma experiência online, visual e responsiva, reunindo informações sobre a criadora, projetos automotivos, vídeos e canais de contato.
 
-## 🎯 Objetivo do Projeto
+## Objetivo
 
-O desafio era criar uma vitrine profissional que transmitisse a estética "premium/underground" da cultura automotiva, facilitando o fechamento de parcerias com marcas do setor. 
+Criar uma apresentação profissional para facilitar o contato com marcas e agências interessadas em campanhas no segmento automotivo e lifestyle.
 
-**Estratégia:** O site utiliza uma interface *dark mode* com elementos de transparência (*glassmorphism*) para destacar a fotografia e os vídeos dos projetos da influenciadora (como o Mazda).
+A identidade visual combina uma estética escura, elementos de transparência e destaque para fotografias e vídeos relacionados ao Mazda da criadora.
 
----
+## Tecnologias
 
-## 🛠️ Tecnologias Utilizadas
+- HTML5 semântico, com estrutura preparada para acessibilidade e SEO.
+- CSS3 com propriedades customizadas para manutenção da identidade visual.
+- Flexbox e Grid para composição responsiva.
+- Google Fonts para a tipografia da interface.
+- GitHub Pages para hospedagem.
 
-* **HTML5 Semantic:** Estrutura focada em acessibilidade e SEO.
-* **CSS3 Custom Properties:** Uso de variáveis para fácil manutenção de identidade visual.
-* **Flexbox & Grid Layout:** Para um design responsivo e adaptável.
-* **Google Fonts:** Integração das fontes *Bebas Neue*, *Montserrat* e *Inter*.
-* **Deployment:** Hospedado via GitHub Pages.
+## Recursos
 
----
+- Layout responsivo para smartphones, tablets e desktops.
+- Galeria de imagens com registros pessoais e automotivos.
+- Seção de vídeos para projetos, eventos e parcerias.
+- Links diretos para Instagram, e-mail e TikTok.
+- Metadados de SEO, dados estruturados, `robots.txt` e `sitemap.xml`.
 
-## 📱 Funcionalidades
+## Acesso
 
-- [x] **Design Responsivo:** Adaptado para smartphones (principal meio de acesso de marcas/agências).
-- [x] **Galeria de Imagens:** Exposição visual do lifestyle e veículos.
-- [x] **Showcase de Vídeos:** Seção dedicada para Reels e conteúdos de parcerias.
-- [x] **CTAs Diretos:** Botões de conversão direta para Instagram, E-mail e TikTok.
+O projeto está disponível em:
 
----
+[douglaskevin201.github.io/lil-titch](https://douglaskevin201.github.io/lil-titch/)
 
-## 🚀 Como visualizar
+## Desenvolvedor
 
-O projeto está disponível online em:  
-🔗 [https://douglaskevin201.github.io/lil-titch/](https://douglaskevin201.github.io/lil-titch/)
+Desenvolvido por **Kevin Douglas**.
 
----
+Para falar sobre projetos semelhantes:
 
-## 👨‍💻 Desenvolvedor
-
-Desenvolvido por **Kevin Douglas**.  
-Interessado em um projeto similar para o seu portfólio ou marca? Entre em contato:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-douglas-mendes-de-aguiar123/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglas.kevin201@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/douglas-kevin/) | [E-mail](mailto:douglas.kevin201@gmail.com)
